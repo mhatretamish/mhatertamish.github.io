@@ -34,48 +34,48 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },
     {
-      name: 'NotHerHacker',
-      link: 'notherhacker.exe',
+      name: 'Tamish',
+      link: 'tf.exbus',
     },   
   ];
 
@@ -276,3 +276,4 @@ const skipIntro = () => {
 const clearCursor = () => {
   return $('span').siblings('.typed-cursor').css('opacity', '0');
 };
+
