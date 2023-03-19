@@ -35,47 +35,47 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },
     {
       name: 'Tamish',
-      link: 'tf.exbus',
+      link: 'tf.exebus',
     },   
   ];
 
